@@ -1,0 +1,95 @@
+{
+    "items":[
+        {
+            "id":1,
+            "img":"https://assets.ajio.com/medias/sys_master/root/20201107/Ueky/5fa5a121f997dd8c838cf970/bond_street_by_red_tape_navy_blue_mesh_lace-up_walking_shoes.jpg",
+            "view":"QUICK VIEW",
+            "Bond":"Bond Street by Red Tape",
+            "info":"Mesh Lace-Up Walking Shoes",
+            "cost":599,
+            "offer":"Rs.599"
+        },
+        {
+            "id":2,
+            "img":"https://assets.ajio.com/medias/sys_master/root/20210427/GNur/60870a5ef997dd7b64c33a13/wildhorn_brown_wh1173_genuine_leather_bi-fold_wallet.jpg",
+            "view":"EXCLUSIVE",
+            "Bond":"WILDHORN",
+            "info":"WH1173 Genuine Leather Bi-Fold Wallet",
+            "cost":285,
+            "offer":"Rs.285"
+        },
+        {
+            "id":3,
+            "img":"https://assets.ajio.com/medias/sys_master/root/20210427/u7GD/60870d27aeb269a9e3a1c5d9/wildhorn_black_whgw13_genuine_leather_bi-fold_wallet.jpg",
+            "view":"EXCLUSIVE",
+            "Bond":"WILDHORN",
+            "info":"WHGW13 Genuine Leather Bi-Fold Wallet",
+            "cost":300,
+            "offer":"Rs.300"
+        },
+        {
+            "id":4,
+            "img":"https://assets.ajio.com/medias/sys_master/root/ha2/hb9/13590902407198/joe_black_green_jb-999-c35_uv-_protected_aviator.jpg",
+            "view":"EXCLUSIVE",
+            "Bond":"Joe Black",
+            "info":"JB-999-C35UV- Protected Avator",
+            "cost":200,
+            "offer":"Rs.200"
+        },
+        {
+            "id":5,
+            "img":"https://assets.ajio.com/medias/sys_master/root/20210404/qkMd/606a41717cdb8c1f149557d8/minimalist_clothing_navy_blue_crew-neck_t-shirt_with_racer_panels.jpg",
+            "view":"EXCLUSIVE",
+            "Bond":"Joe Black",
+            "info":"JB-999-C35UV- Protected Avator",
+            "cost":200,
+            "offer":"Rs.200"
+        },
+        {
+            "id":6,
+            "img":"https://assets.ajio.com/medias/sys_master/root/20210403/oSUH/60686c3d7cdb8c1f14757716/el_paso_black_panelled_thong-strap_flip-flops_.jpg",
+            "view":"EXCLUSIVE",
+            "Bond":"WILDHORN",
+            "info":"WHGW13 Genuine Leather Bi-Fold Wallet",
+            "cost":300,
+            "offer":"Rs.300"
+        },
+        {
+            "id":7,
+            "img":"https://assets.ajio.com/medias/sys_master/root/20210427/qOQl/60870ca4f997dd7b64c3434d/wildhorn_blue_wh946_genuine_leather_bi-fold_wallet.jpg",
+            "view":"EXCLUSIVE",
+            "Bond":"WILDHORN",
+            "info":"WHGW13 Genuine Leather Bi-Fold Wallet",
+            "cost":300,
+            "offer":"Rs.300"
+        },
+        {
+            "id":8,
+            "img":"https://assets.ajio.com/medias/sys_master/root/20210403/Xgpv/60688f5aaeb269a9e33478c2/el_paso_black_textured_slip-on_sandals.jpg",
+            "view":"EXCLUSIVE",
+            "Bond":"Joe Black",
+            "info":"JB-999-C35UV- Protected Avator",
+            "cost":200,
+            "offer":"Rs.200"
+        },
+
+        {
+            "id":9,
+            "img":"https://assets.ajio.com/medias/sys_master/root/20201217/WQPq/5fda9625aeb269d56341086d/bond_street_by_red_tape_white_lace-up_formal_shoes.jpg",
+            "view":"EXCLUSIVE",
+            "Bond":"Joe Black",
+            "info":"JB-999-C35UV- Protected Avator",
+            "cost":200,
+            "offer":"Rs.200"
+        },
+        {
+            "id":10,
+            "img":"https://assets.ajio.com/medias/sys_master/root/20210427/u7GD/60870d27aeb269a9e3a1c5d9/wildhorn_black_whgw13_genuine_leather_bi-fold_wallet.jpg",
+            "view":"EXCLUSIVE",
+            "Bond":"WILDHORN",
+            "info":"WHGW13 Genuine Leather Bi-Fold Wallet",
+            "cost":300,
+            "offer":"Rs.300"
+        }
+    ]
+}
