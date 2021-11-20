@@ -1,0 +1,54 @@
+.cart{
+    width: 50%;
+    height: 10vh;
+    margin: auto;
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
+}
+.cartsummary{
+    width: 50%;
+    height: 7vh;
+    margin: auto;
+    margin-top: 0px;
+    display: flex;
+    flex-direction: row;
+}
+.carticon{
+    width: 10%;
+    height: 7vh;
+    margin-right: 10px;
+}
+.cartext{
+    width: 20%;
+    height: 7vh;
+}
+.cart>div{
+    width: 20%;
+    height: 10vh;
+    display: flex;
+    flex-direction: row;
+}
+.add{
+    width: 30%;
+    height: 5vh;
+    margin-top: 15px;
+    background-color: red;
+    border: none;
+    border-radius: 10px;
+    color: white;
+}
+.dec{
+    width: 30%;
+    height: 5vh;
+    margin-top: 15px;
+    background-color: green;
+    border: none;
+    border-radius: 10px;
+    color: white;
+}
+.order{
+    width: 20%;
+    height: 20vh;
+    margin-left: 50%;
+}
